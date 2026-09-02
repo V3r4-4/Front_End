@@ -42,6 +42,9 @@ It is an overview of my  front end learning journey.
 * Book: *The_Complete_Reference_HTML_&_CSS_5th_Ed_by_Thomas_A._Powell*
 * Kali Linux
 
+<br>
+<br>
+
 #### Disclaimer!!
 
 Work in progress.
