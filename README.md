@@ -41,6 +41,7 @@ It is an overview of my  front end learning journey.
 * W3 schools ` https://www.w3schools.com/`
 * Book: *The_Complete_Reference_HTML_&_CSS_5th_Ed_by_Thomas_A._Powell*
 * Kali Linux
+* Projects From: `https://roadmap.sh/frontend/projects`
 
 <br>
 <br>
