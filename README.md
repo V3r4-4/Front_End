@@ -24,7 +24,7 @@ No installation or build tools are required. You only need a web browser.
 #### Quick Start
 * **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+   git clone [https://github.com/V3r4-4/Front_End.git](https://github.com/V3r4-4/Front_End.git)
 * Navigate into the project folder
 * Open the page:
   * Double-click project01-CV.html to open it directly in your default web browser.
