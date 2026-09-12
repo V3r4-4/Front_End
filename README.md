@@ -5,11 +5,11 @@ It is an overview of my front end learning journey.
 
 <br>
 
-In this repository there are multiple projects:
+Projects on HTML:
 <br>
 
-1. #### Project01 - CV.html
-  #### Key Concepts Demonstrated:
+1. ## Project01 - CV.html
+  ### Key Concepts Demonstrated:
   * Semantic HTML
   * SEO Meta Tags
   * Open Graph (OG) Tags
