@@ -27,10 +27,13 @@ No installation or build tools are required. You only need a web browser.
    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
 * Navigate into the project folder
 * Open the page:
+<br>
   * Double-click project01-CV.html to open it directly in your default web browser.
+<br>
   * Or, if using VS Code, right-click project01-CV.html and select Open with Live Server.
 <br>
 <br>
+
 #### Resources and tools used:
 
 * Visual Studio code Editor (VS code)
