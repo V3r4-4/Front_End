@@ -1,7 +1,6 @@
 # Front-end Learning Journey
 
-Hey there 👋, welcome to the front end repository.
-It is an overview of my front end learning journey.
+Hey there 👋. This repository is an overview of my front-end learning journey.
 
 <br>
 
