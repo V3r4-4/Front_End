@@ -4,7 +4,7 @@ Hello there 👋. This repository is an overview of my front-end learning journe
 
 <br>
 
-## Projects on HTML:
+## Front-End Projects from Roadmap.sh:
 <br>
 
 1. ### Project01-CV.html
