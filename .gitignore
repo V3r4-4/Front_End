@@ -1,0 +1,8 @@
+# Ignore local system and editor settings
+.DS_Store
+.vscode/
+
+# Ignore local draft files or private notes
+*.pdf
+private-notes.txt
+drafts/
