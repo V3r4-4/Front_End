@@ -18,6 +18,20 @@ Hey there 👋. This repository is an overview of my front-end learning journey.
 
 ### To Complete beginners who are not familiar with the above concepts. Below is a presentation that covers  all Four Concepts.
 
+
+<table align="center">
+  <tr>
+    <td><img src="./assets/slide-1.png" alt="Slide 1 - Project Overview" width="600px"></td>
+    <td><img src="./assets/slide-2.png" alt="Slide 2 - Key Concepts Summary" width="600px"></td>
+    <td><img src="./assets/slide-3.png" alt="Slide 3 - Resource Hub" width="600px"></td>
+  </tr>
+</table>
+
+
+
+
+
+
 <details>
   
   <summary>
