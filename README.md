@@ -5,19 +5,31 @@ It is an overview of my front end learning journey.
 
 <br>
 
-In this repository there are multiple projects:
+## Projects on HTML:
 <br>
 
-* Project01 - CV.html
-   
+1. ### Project01-CV.html
+  #### Key Concepts Demonstrated:
+  * Semantic HTML
+  * SEO Meta Tags
+  * Open Graph (OG) Tags
+  * Favicon
+    
 <br>
 
-#### Resources and tools used:
+## How to Run HTML projects:
+No installation or build tools are required. You only need a web browser.
+<br>
+<br>
 
-* Visual Studio code Editor (VS code)
-* W3 schools ` https://www.w3schools.com/`
-* Kali Linux
-  
+#### Quick Start
+* **Clone the repository:**
+   ```bash
+   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+* Navigate into the project folder
+* Open the page:
+  * Double-click project01-CV.html to open it directly in your default web browser.
+  * Or, if using VS Code, right-click project01-CV.html and select Open with Live Server.
 
 <br>
 
