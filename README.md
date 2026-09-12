@@ -17,7 +17,7 @@ It is an overview of my front end learning journey.
     
 <br>
 
-### How to Run HTML projects:
+## How to Run HTML projects:
 No installation or build tools are required. You only need a web browser.
 <br>
 <br>
@@ -27,11 +27,7 @@ No installation or build tools are required. You only need a web browser.
    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
 * Navigate into the project folder
 * Open the page:
-<br>
-
   * Double-click project01-CV.html to open it directly in your default web browser.
-<br>
-
   * Or, if using VS Code, right-click project01-CV.html and select Open with Live Server.
 <br>
 <br>
