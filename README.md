@@ -8,9 +8,7 @@ It is an overview of my front end learning journey.
 In this repository there are multiple projects on:
 <br>
 
-* HTML
-* CSS
-* JAVASCRIPT
+* Project01 - CV.html
    
 <br>
 
