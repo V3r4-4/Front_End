@@ -21,6 +21,7 @@ It is an overview of my front end learning journey.
 No installation or build tools are required. You only need a web browser.
 <br>
 <br>
+
 #### Quick Start
 * **Clone the repository:**
    ```bash
@@ -29,7 +30,7 @@ No installation or build tools are required. You only need a web browser.
 * Open the page:
   * Double-click project01-CV.html to open it directly in your default web browser.
   * Or, if using VS Code, right-click project01-CV.html and select Open with Live Server.
-<br>
+
 <br>
 
 #### Resources and tools used:
