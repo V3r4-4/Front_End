@@ -32,9 +32,10 @@ No installation or build tools are required. You only need a web browser.
 
 <br>
 
-### Project Idea From: https://roadmap.sh/projects
+### Project Ideas From: https://roadmap.sh/projects
 
 <br>
+
 ### Disclaimer!!
 
 Work in progress.
