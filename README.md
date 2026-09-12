@@ -3,11 +3,15 @@
 Hey there 👋, welcome to the front end repository.
 It is an overview of my front end learning journey.
 
+<br>
+
 In this repository there are multiple projects to practice on:
+<br>
+
 * HTML
 * CSS
 * JAVASCRIPT
-*   
+   
 <br>
 
 #### Resources and tools used:
