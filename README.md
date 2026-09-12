@@ -19,7 +19,7 @@ Hey there 👋. This repository is an overview of my front-end learning journey.
 ### To Complete beginners who are not familiar with the above concepts. Below is a presentation that covers  all Four Concepts.
 
 <details>
-  <summary><b>Click to View Presentation Slides</b></summary>
+  <summary><span style="color:red"><b>Click to View Presentation Slides</b></span></summary>
   
   <br>
   
