@@ -33,15 +33,6 @@ No installation or build tools are required. You only need a web browser.
 
 <br>
 
-#### Resources and tools used:
-
-* Visual Studio code Editor (VS code)
-* W3 schools ` https://www.w3schools.com/`
-* Kali Linux
-  
-
-<br>
-
 #### Disclaimer!!
 
 Work in progress.
