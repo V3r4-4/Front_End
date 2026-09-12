@@ -5,7 +5,7 @@ It is an overview of my front end learning journey.
 
 <br>
 
-In this repository there are multiple projects on:
+In this repository there are multiple projects:
 <br>
 
 * Project01 - CV.html
