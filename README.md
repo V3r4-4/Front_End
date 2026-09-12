@@ -8,8 +8,13 @@ It is an overview of my front end learning journey.
 In this repository there are multiple projects:
 <br>
 
-* Project01 - CV.html
-   
+* #### Project01 - CV.html
+  #### Requirements for this project:
+  * Semantic HTML: Use appropriate HTML tags to structure your CV.
+  * SEO Meta Tags: Include essential meta tags for SEO.
+  * Open Graph (OG) Tags: Add OG tags for better social media sharing.
+  * Favicon: Add a favicon for your CV page.
+    
 <br>
 
 #### Resources and tools used:
