@@ -53,7 +53,7 @@ No installation or build tools are required. You only need a web browser.
 
 <br>
 
-### Project Ideas From: https://roadmap.sh/projects
+### Project URL: https://roadmap.sh/projects/single-page-cv
 
 <br>
 
