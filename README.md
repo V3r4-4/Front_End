@@ -28,8 +28,10 @@ No installation or build tools are required. You only need a web browser.
 * Navigate into the project folder
 * Open the page:
 <br>
+
   * Double-click project01-CV.html to open it directly in your default web browser.
 <br>
+
   * Or, if using VS Code, right-click project01-CV.html and select Open with Live Server.
 <br>
 <br>
