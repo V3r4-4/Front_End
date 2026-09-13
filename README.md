@@ -36,8 +36,7 @@ Hello there 👋. This repository is an overview of my front-end learning journe
 </table>
 
 ## Final Demo:
-<video src="https://github.com/user/repo/assets/12345/abc-123-demo.mp4" controls="controls" width="100%">
-</video>
+<video src="/home/V3r4/Front_End Repository/Front_End/assets/Final Demo.mp4" controls="controls" width="100%"></video>
 
 <br>
 
