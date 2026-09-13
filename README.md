@@ -34,8 +34,10 @@ Hello there 👋. This repository is an overview of my front-end learning journe
     <td><img src="./assets/slide-10.png" alt="Slide 10 - Key Concepts Summary" width="100%"></td>
   </tr>
 </table>
+<br>
+<br>
 
-## Final Demo:
+## Final project:
 <p align="center">
   <img src="./assets/FinalProjectOverview.png" alt="Final Project Overview" width="600px">
 </p>
