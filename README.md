@@ -36,7 +36,9 @@ Hello there 👋. This repository is an overview of my front-end learning journe
 </table>
 
 ## Final Demo:
-<video src="/home/V3r4/Front_End Repository/Front_End/assets/Final Demo.mp4" controls="controls" width="100%"></video>
+<p align="center">
+  <img src="./assets/FinalProjectOverview.png" alt="Final Project Overview" width="600px">
+</p>
 
 <br>
 
