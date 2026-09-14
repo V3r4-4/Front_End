@@ -56,6 +56,13 @@ Hello there 👋. This repository is an overview of my front-end learning journe
 <br>
 <br>
 
+### Projects URLs: 
+* <a href="https://roadmap.sh/projects/single-page-cv">Single-page CV </a>
+* <a href="https://roadmap.sh/projects/basic-html-website">Basic HTML Website</a>
+
+<br>
+<br>
+
 ## How to Run HTML projects:
 No installation or build tools are required. You only need a web browser.
 <br>
@@ -71,11 +78,6 @@ No installation or build tools are required. You only need a web browser.
   * Or, if using VS Code, right-click project01-CV.html and select Open with Live Server.
 
 <br>
-
-### Project URL: 
-* <a href="https://roadmap.sh/projects/single-page-cv">Single-page CV </a>
-* <a href="https://roadmap.sh/projects/basic-html-website">Basic HTML Website</a>
-
 <br>
 
 ### Disclaimer!!
