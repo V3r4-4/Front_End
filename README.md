@@ -44,6 +44,18 @@ Hello there 👋. This repository is an overview of my front-end learning journe
 
 <br>
 
+
+2. ### Project02-BasicHtmlWebsite.html
+  #### Instructions:
+  * In this project, you are required to create a simple HTML-only website with multiple pages. The website should have the following pages:
+      * Homepage
+      * Projects
+      * Articles
+      * Contact
+   
+<br>
+<br>
+
 ## How to Run HTML projects:
 No installation or build tools are required. You only need a web browser.
 <br>
@@ -60,7 +72,9 @@ No installation or build tools are required. You only need a web browser.
 
 <br>
 
-### Project URL: https://roadmap.sh/projects/single-page-cv
+### Project URL: 
+* <a href="https://roadmap.sh/projects/single-page-cv">Single-page CV </a>
+* <a href="https://roadmap.sh/projects/basic-html-website">Basic HTML Website</a>
 
 <br>
 
