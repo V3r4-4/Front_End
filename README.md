@@ -34,10 +34,33 @@ Hello there 👋. This repository is an overview of my front-end learning journe
     <td><img src="./assets/slide-10.png" alt="Slide 10 - Key Concepts Summary" width="100%"></td>
   </tr>
 </table>
+<br>
+<br>
 
-## Final Demo:
-<video src="/home/V3r4/Front_End Repository/Front_End/assets/Final Demo.mp4" controls="controls" width="100%"></video>
+## Final project:
+<p align="center">
+  <img src="./assets/FinalProjectOverview.png" alt="Final Project Overview" width="600px">
+</p>
 
+<br>
+
+
+2. ### Project02-BasicHtmlWebsite.html
+  #### Instructions:
+  * In this project, you are required to create a simple HTML-only website with multiple pages. The website should have the following pages:
+      * Homepage
+      * Projects
+      * Articles
+      * Contact
+   
+<br>
+<br>
+
+### Projects URLs: 
+* <a href="https://roadmap.sh/projects/single-page-cv">Single-page CV </a>
+* <a href="https://roadmap.sh/projects/basic-html-website">Basic HTML Website</a>
+
+<br>
 <br>
 
 ## How to Run HTML projects:
@@ -55,9 +78,6 @@ No installation or build tools are required. You only need a web browser.
   * Or, if using VS Code, right-click project01-CV.html and select Open with Live Server.
 
 <br>
-
-### Project URL: https://roadmap.sh/projects/single-page-cv
-
 <br>
 
 ### Disclaimer!!
