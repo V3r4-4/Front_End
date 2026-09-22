@@ -45,7 +45,7 @@ Hello there 👋. This repository is an overview of my front-end learning journe
 <br>
 
 
-2. ### Project03-BasicHtmlWebsite.html
+2. ### Project02-BasicHtmlWebsite.html
   #### Instructions:
   * In this project, you are required to create a simple HTML-only website with multiple pages. The website should have the following pages:
       * Homepage
@@ -62,7 +62,7 @@ Hello there 👋. This repository is an overview of my front-end learning journe
 
 <br>
 
-3. ### Project02-PersonalPortfolio.html
+3. ### Project03-PersonalPortfolio.html
   #### Submission Requirements:
 * A fully styled, responsive website with the same structure as the previous project.
 * Consistent use of a chosen color scheme and typography.
