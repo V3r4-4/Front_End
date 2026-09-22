@@ -54,6 +54,12 @@ Hello there 👋. This repository is an overview of my front-end learning journe
       * Contact
    
 <br>
+
+## Final project:
+<p align="center">
+  <img src="./assets/FinalImage.png" alt="Final Project Overview" width="600px">
+</p>
+
 <br>
 
 ### Projects URLs: 
