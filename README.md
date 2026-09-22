@@ -62,7 +62,7 @@ Hello there 👋. This repository is an overview of my front-end learning journe
 
 <br>
 
-2. ### Project02-PersonalPortfolio.html
+3. ### Project02-PersonalPortfolio.html
   #### Submission Requirements:
 * A fully styled, responsive website with the same structure as the previous project.
 * Consistent use of a chosen color scheme and typography.
