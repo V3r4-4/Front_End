@@ -63,7 +63,7 @@ Hello there 👋. This repository is an overview of my front-end learning journe
 <br>
 
 3. ### Project03-PersonalPortfolio.html
-  #### Submission Requirements:
+  #### Requirements:
 * A fully styled, responsive website with the same structure as the previous project.
 * Consistent use of a chosen color scheme and typography.
 * Proper use of CSS techniques like Flexbox, media queries, and the box model.
