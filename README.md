@@ -54,14 +54,31 @@ Hello there 👋. This repository is an overview of my front-end learning journe
       * Contact
    
 <br>
+
+## Final project:
+<p align="center">
+  <img src="./assets/FinalImage.png" alt="Final Project Overview" width="600px">
+</p>
+
+<br>
+
+3. ### Project03-PersonalPortfolio.html
+  #### Requirements:
+* A fully styled, responsive website with the same structure as the previous project.
+* Consistent use of a chosen color scheme and typography.
+* Proper use of CSS techniques like Flexbox, media queries, and the box model.
+* A responsive navigation bar and well-styled contact form.
+
 <br>
 
 ### Projects URLs: 
 * <a href="https://roadmap.sh/projects/single-page-cv">Single-page CV </a>
 * <a href="https://roadmap.sh/projects/basic-html-website">Basic HTML Website</a>
+* <a href="https://roadmap.sh/projects/portfolio-website">Personal Portfolio</a>
 
 <br>
 <br>
+  
 
 ## How to Run HTML projects:
 No installation or build tools are required. You only need a web browser.
